@@ -7,4 +7,4 @@ Name              Major      Grad
 Delilah Howell    CIS        Fall 2020
 
 Name              Major      Grad
-Dakota Terry      CIS        Spring 2020
+Dakota Terry      CIS        Spring 2021
