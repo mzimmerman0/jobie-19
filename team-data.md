@@ -6,3 +6,4 @@ Surya Singh      CS          Fall 2020
 Delilah Howell   CIS         Fall 2020
 Alyssa Birt      IT          Fall 2020
 Dakota Terry     CIS        Spring 2021
+Hobie A Aljohani CIS         Fall 2020
